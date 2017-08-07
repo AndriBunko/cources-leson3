@@ -6,7 +6,7 @@ import java.util.ArrayList;
  * Created by Andrew on 17.07.2017.
  */
 public class Text {
-    private ArrayList <Texts>  texts;
+    private List <Texts>  texts;
 
     public void addToText(Texts t){
         texts.add(t);
